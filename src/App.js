@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import MainForm from "./components/MainForm/MainForm";
-import FEATURES from "./FEATURES/FEATURES";
+import FEATURES from "./components/FEATURES/FEATURES";
 
 import "./App.css";
 import MainSummary from "./components/MainSummary/MainSummary";
